@@ -81,7 +81,7 @@ you can find the finetuned model here for inference : https://www.kaggle.com/mod
 
 ## 📁 Files
 
-- `Fine_Tuning_Gemma_2_English_Bangla.ipynb`: Main notebook containing the full workflow.
+- `optimizing Gemma_2_English_Bangla.ipynb`: Main notebook containing the full workflow.
 
 ---
 
