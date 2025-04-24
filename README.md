@@ -27,7 +27,7 @@ The following tools and libraries are used:
 ### 2. 🧹 Dataset Preparation
 
 The dataset is sourced from Kaggle:  
-🔗 [English to Bengali for Machine Translation](https://www.kaggle.com/datasets)  
+🔗 [English to Bengali for Machine Translation](https://www.kaggle.com/datasets/sayedshaun/english-to-bengali-for-machine-translation)  
 It consists of sentence pairs in English and Bengali, and is formatted into:
 
 - `instruction`: Task prompt (e.g., "Translate to English")
