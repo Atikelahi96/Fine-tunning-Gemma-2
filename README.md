@@ -75,6 +75,7 @@ Training is done using `SFTTrainer` with the following configuration:
 ### 6. 🔍 Inference & Evaluation
 
 After training, the model performs inference on unseen text. Translations are evaluated using **BLEU score** to measure accuracy and quality.
+you can find the finetuned model here for inference : https://www.kaggle.com/models/mahabualahiatik/gemma2-9b_english-bengali/
 
 ---
 
